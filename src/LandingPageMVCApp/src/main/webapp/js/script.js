@@ -40,7 +40,7 @@ new WOW().init();
 
 
 // Count Down Timer
-var countDownEndDate = '2021/02/07';  // specify your count down timer here
+var countDownEndDate = '2023/02/15';  // specify your count down timer here
 $('.countdown').final_countdown({
     start : new Date().getTime() / 1000,
     end   : new Date(countDownEndDate).getTime() / 1000,
